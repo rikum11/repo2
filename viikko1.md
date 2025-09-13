@@ -4,7 +4,7 @@
 
 Minä olen **Riku**, ikää *24v* ja asun **Limingassa**.
 
->Harrastuksena DX-kuuntelu, radioverkkotenkiikka ja valokuvaaminen.
+>Harrastuksena DX-kuuntelu, radiotekniikka ja valokuvaaminen.
 
 ### Mielenkiinnon kohteita:
 1. Radiot
